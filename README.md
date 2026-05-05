@@ -1,6 +1,5 @@
 # India Startup Funding Pulse
 
-**Day 07 of the 21-Day Build Challenge**
 
 🔗 **Live:** [indian-startup-pulse.streamlit.app](https://indian-startup-pulse.streamlit.app)
 
